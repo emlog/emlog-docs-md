@@ -1,12 +1,4 @@
----
-title: '准备工作'
-sidebar_label: 🛠 准备工作
-description: emlog开发文档 - 款轻量开源建站系统
-keywords: [emlog, 建站系统, 建站程序, 开源博客系统, php博客系统]
-sidebar_position: 1
----
-
-# 🛠 准备工作
+# EMLOG 应用开发文档
 
 emlog支持模板主题和扩展插件，开发者可以开发个性化的模板主题以及功能插件，来丰富emlog站点的功能和样式。
 
